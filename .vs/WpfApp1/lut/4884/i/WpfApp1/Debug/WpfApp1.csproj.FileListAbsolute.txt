@@ -1,0 +1,12 @@
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\b\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\b\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\i\WpfApp1\Debug\MainWindow.baml
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\i\WpfApp1\Debug\MainWindow.g.cs
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\i\WpfApp1\Debug\App.g.cs
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\i\WpfApp1\Debug\WpfApp1_MarkupCompile.cache
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\i\WpfApp1\Debug\WpfApp1.g.resources
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\i\WpfApp1\Debug\WpfApp1.Properties.Resources.resources
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\i\WpfApp1\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\i\WpfApp1\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\i\WpfApp1\Debug\WpfApp1.csproj.CopyComplete
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\i\WpfApp1\Debug\WpfApp1.exe

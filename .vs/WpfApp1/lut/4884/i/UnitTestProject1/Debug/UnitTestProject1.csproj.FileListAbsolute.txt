@@ -1,0 +1,8 @@
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\b\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csproj.CopyComplete
+D:\Code\WpfApp1\.vs\WpfApp1\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.dll
